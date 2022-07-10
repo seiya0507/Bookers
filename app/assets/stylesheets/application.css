@@ -13,3 +13,46 @@
  *= require_tree .
  *= require_self
  */
+
+table {
+  margin-left: 33px;
+}
+
+h1, h2 {
+  margin-left: 33px;
+}
+
+.create {
+  padding-left: 33px;
+}
+
+.submit {
+  display: inline-block;
+  padding-left: 33px;
+  padding-top: 10px;
+}
+
+.create-title, .create-body {
+  font-size: 15px;
+}
+
+p {
+  margin: 33px;
+}
+
+td {
+  padding-left: 10px;
+}
+
+.error-text {
+  color: red;
+}
+
+.edit-body {
+  padding-left: 33px;
+}
+
+.edit-link {
+  padding-left: 33px;
+  padding-top: 10px;
+}
